@@ -1,0 +1,29 @@
+.header{
+    background-color: aquamarine;
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    height:80px;
+    padding :20px;
+}
+.main{
+    padding: 20px;
+    padding-top:100px;
+}
+.site-id{
+    margin:0;
+}
+.footer{
+    background-color: rgb(214, 127, 255);
+    position:fixed;
+    bottom:0;
+    left:0;
+    width: 100%;
+}
+.footer-links{
+list-style-type: none;
+padding: 0;
+display: flex;
+justify-content: space-evenly
+}
